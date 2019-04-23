@@ -1,0 +1,3 @@
+rootProject.name = 'dealsite_2613'
+
+include ':app'
